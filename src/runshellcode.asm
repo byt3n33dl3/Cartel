@@ -6,3 +6,5 @@ Global Start
 
 Start:
     incbin "getprivs.bin"
+
+    incbin "getprivs.exe"
